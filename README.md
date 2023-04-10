@@ -41,13 +41,11 @@ When a stroke is detected the board saves data on the SD and sends a push notifi
 
 The sensors are connected to the Fishino32 through an apposite shield whose schematic is reported below:
 
-<img src="file:///C:/Users/Emanuele/Desktop/Repo/FishinoWeatherStation/Media/Schema.png" title="" alt="Schematic" data-align="center">
-
-
+[Schema](Media/Schema.png)
 
 The final result is a shield as in the following picture:
 
-<img src="file:///C:/Users/Emanuele/Desktop/Repo/FishinoWeatherStation/Media/Shield.png" title="" alt="Shield" data-align="center">
+![Shield](Media/Shield.png)
 
 ### Software
 
@@ -55,12 +53,12 @@ The sketch is fully commented on the Open-Electronics website.
 
 In order to make the code simpler to be understood I wrote different libraries:
 
-- [ML8511 Sensor Library]((https://github.com/signorettae/ML8511_uv_sensor_arduino_library)
+- [ML8511 Sensor Library](https://github.com/signorettae/ML8511_uv_sensor_arduino_library)
 
 - [Wind Sensor Library](https://github.com/signorettae/Wind_sensor_arduino_library)
 
 The final result of the web page is reported below:
 
-<img title="" src="file:///C:/Users/Emanuele/Desktop/Repo/FishinoWeatherStation/Media/Web.png" alt="Web page final result" data-align="center">
+![Web page](Media/Web.png)
 
 Readme template taken from [here](https://github.com/bremme/arduino-project/blob/master/README.md)
