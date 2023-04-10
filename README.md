@@ -41,7 +41,7 @@ When a stroke is detected the board saves data on the SD and sends a push notifi
 
 The sensors are connected to the Fishino32 through an apposite shield whose schematic is reported below:
 
-[Schema](Media/Schema.png)
+![Schema](Media/Schema.png)
 
 The final result is a shield as in the following picture:
 
